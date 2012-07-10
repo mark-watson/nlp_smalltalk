@@ -1,0 +1,31 @@
+= Natural Language Processing Library for Pharo Smalltalk
+
+Copyright 2005 to 2012 by Mark Watson
+
+License: choose either Apache 2 or LGPL 3.0, whichever works best for you.
+
+== Setup
+
+Copy the files KBSnlp.st and lexicon.txt to the top directory of your Pharo
+distribution library. On a Mac, copy them into the App folder that defines
+the Pharo application.
+
+== Running an example
+
+Open a File Browser and fileIn the KBSnlp.st source file. Open a Class Browser
+and and look at the code in the KBnlp class.
+
+Open a Workspace and one time only evaluate:
+
+* NLPtagger initializeLexicon
+
+Try tagging a sentence:
+
+* NLPtagger pptag: 'The dog ran down the street'
+
+== To be done
+
+The enclosed code is a simple Smalltalk port of my Java FastTag part of speech
+(POS) tagger that is available on my open source page http://markwatson.com/opensource
+
+When/if I have time I will also port my classifier and named entity recognizer (NER) code.
