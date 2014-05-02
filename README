@@ -10,6 +10,12 @@ Copy the files KBSnlp.st and lexicon.txt to the top directory of your Pharo
 distribution library. On a Mac, copy them into the App folder that defines
 the Pharo application.
 
+Note (5/2/2014): on the Mac, using Pharo 3.0, I had to copy the lexicon.txt file to:
+
+    cp lexicon.txt Contents/Resources
+
+inside the Pharo application.
+
 == Running an example
 
 Open a File Browser and fileIn the KBSnlp.st source file. Open a Class Browser
@@ -17,11 +23,17 @@ and and look at the code in the KBnlp class.
 
 Open a Workspace and one time only evaluate:
 
-* NLPtagger initializeLexicon
+    NLPtagger initializeLexicon
+
+Note (5/2/2014): after the text file is processed, the lexicon dictionary is inspected:
+
+    lex inspect.
+
+If the inspector window shows an empty dictionary then the file lexicon.txt was not found.
 
 Try tagging a sentence:
 
-* NLPtagger pptag: 'The dog ran down the street'
+    NLPtagger pptag: 'The dog ran down the street'
 
 == To be done
 
