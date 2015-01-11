@@ -14,11 +14,6 @@ On a Mac, change directory into the App folder that defines the Pharo applicatio
 
   cd ~/Pharo3.0.app/Contents/Resources
 
-Note (5/2/2014): on the Mac, using Pharo 3.0, I had to copy the lexicon.txt file to:
-
-    cp lexicon.txt Contents/Resources
-
-inside the Pharo application.
 
 == Running an example
 
