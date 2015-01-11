@@ -2,13 +2,17 @@
 
 Copyright 2005 to 2012 by Mark Watson
 
-License: choose either Apache 2 or LGPL 3.0, whichever works best for you.
+License: AGPL 3.0 (Note: I own the copyright of all of the code in this project; contact me if you need a commercial license.)
 
 == Setup
 
-Copy the files KBSnlp.st and lexicon.txt to the top directory of your Pharo
-distribution library. On a Mac, copy them into the App folder that defines
-the Pharo application.
+Change directory to of your Pharo Smalltalk installation and performa git pull on this project:
+
+  git pull https://github.com/mark-watson/nlp_smalltalk.git
+  
+On a Mac, change directory into the App folder that defines the Pharo application: Contents/Resources. On my system this is:
+
+  cd ~/Pharo3.0.app/Contents/Resources
 
 == Running an example
 
@@ -25,7 +29,7 @@ Try tagging a sentence:
 
 == To be done
 
-The enclosed code is a simple Smalltalk port of my Java FastTag part of speech
+The enclosed code is a simple Smalltalk port (done in 2008) of my Java FastTag part of speech
 (POS) tagger that is available on my open source page http://markwatson.com/opensource
 
 When/if I have time I will also port my classifier and named entity recognizer (NER) code.
