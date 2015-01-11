@@ -1,6 +1,6 @@
 = Natural Language Processing Library for Pharo Smalltalk
 
-Copyright 2005 to 2012 by Mark Watson
+Copyright 2005 to 2014 by Mark Watson
 
 License: AGPL 3.0 (Note: I own the copyright of all of the code in this project; contact me if you need a commercial license.)
 
@@ -14,6 +14,12 @@ On a Mac, change directory into the App folder that defines the Pharo applicatio
 
   cd ~/Pharo3.0.app/Contents/Resources
 
+Note (5/2/2014): on the Mac, using Pharo 3.0, I had to copy the lexicon.txt file to:
+
+    cp lexicon.txt Contents/Resources
+
+inside the Pharo application.
+
 == Running an example
 
 Open a File Browser and fileIn the KBSnlp.st source file. Open a Class Browser
@@ -21,11 +27,17 @@ and and look at the code in the KBnlp class.
 
 Open a Workspace and one time only evaluate:
 
-* NLPtagger initializeLexicon
+    NLPtagger initializeLexicon
+
+Note (5/2/2014): after the text file is processed, the lexicon dictionary is inspected:
+
+    lex inspect.
+
+If the inspector window shows an empty dictionary then the file lexicon.txt was not found.
 
 Try tagging a sentence:
 
-* NLPtagger pptag: 'The dog ran down the street'
+    NLPtagger pptag: 'The dog ran down the street'
 
 == To be done
 
