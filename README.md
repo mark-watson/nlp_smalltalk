@@ -1,10 +1,10 @@
-= Natural Language Processing Library for Pharo Smalltalk
+# Natural Language Processing Library for Pharo Smalltalk
 
 Copyright 2005 to 2014 by Mark Watson
 
 License: AGPL 3.0 (Note: I own the copyright of all of the code in this project; contact me if you need a commercial license.)
 
-== Setup
+## Setup
 
 Change directory to of your Pharo Smalltalk installation and performa git pull on this project:
 
@@ -15,7 +15,7 @@ On a Mac, change directory into the App folder that defines the Pharo applicatio
   cd ~/Pharo3.0.app/Contents/Resources
 
 
-== Running an example
+## Running an example
 
 Open a File Browser and fileIn the KBSnlp.st source file. Open a Class Browser
 and and look at the code in the KBnlp class.
@@ -34,7 +34,7 @@ Try tagging a sentence:
 
     NLPtagger pptag: 'The dog ran down the street'
 
-== To be done
+## To be done
 
 The enclosed code is a simple Smalltalk port (done in 2008) of my Java FastTag part of speech
 (POS) tagger that is available on my open source page http://markwatson.com/opensource
