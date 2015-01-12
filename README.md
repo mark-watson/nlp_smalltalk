@@ -8,7 +8,7 @@ License: AGPL 3.0 (Note: I own the copyright of all of the code in this project;
 
 Change directory to of your Pharo Smalltalk installation and performa git pull on this project:
 
-  git pull https://github.com/mark-watson/nlp_smalltalk.git
+  git clone https://github.com/mark-watson/nlp_smalltalk.git
   
 On a Mac, change directory into the App folder that defines the Pharo application: Contents/Resources. On my system this is:
 
