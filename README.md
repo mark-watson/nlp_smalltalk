@@ -14,6 +14,7 @@ On a Mac, change directory into the App folder that defines the Pharo applicatio
 
   cd ~/Pharo3.0.app/Contents/Resources
 
+Once you have cloned this git repository into the correct location, open a Pharo File Browser, open the nlp_smalltalk folder, and fileIn the KBSnlp.st file. If you then open a System Browser, you should see a new package KBSnlp.
 
 ## Running an example
 
@@ -28,7 +29,7 @@ Note (5/2/2014): after the text file is processed, the lexicon dictionary is ins
 
     lex inspect.
 
-If the inspector window shows an empty dictionary then the file lexicon.txt was not found.
+You can close the inspector window after seeing dictionary entries for the lexicon. If the inspector window shows an empty dictionary then the file lexicon.txt was not found and the installation failed.
 
 Try tagging a sentence:
 
