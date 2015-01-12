@@ -34,9 +34,3 @@ Try tagging a sentence:
 
     NLPtagger pptag: 'The dog ran down the street'
 
-## To be done
-
-The enclosed code is a simple Smalltalk port (done in 2008) of my Java FastTag part of speech
-(POS) tagger that is available on my open source page http://markwatson.com/opensource
-
-When/if I have time I will also port my classifier and named entity recognizer (NER) code.
