@@ -34,3 +34,4 @@ Try tagging a sentence:
 
     NLPtagger pptag: 'The dog ran down the street'
 
+## CategorizationI am using NeoJSON to parse the category word count data.One time initialization:~~~~~~~~ NLPcategories initializeCategoryHashTry it:~~~~~~~~ NLPcategories classify: 'The economy is bad and taxes are too high.'
