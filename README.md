@@ -14,7 +14,6 @@ On a Mac, change directory into the App folder that defines the Pharo applicatio
 
   cd ~/Pharo3.0.app/Contents/Resources
 
-Once you have cloned this git repository into the correct location, open a Pharo File Browser, open the nlp_smalltalk folder, and fileIn the KBSnlp.st file. If you then open a System Browser, you should see a new package KBSnlp.
 
 ## Running an example
 
@@ -29,10 +28,10 @@ Note (5/2/2014): after the text file is processed, the lexicon dictionary is ins
 
     lex inspect.
 
-You can close the inspector window after seeing dictionary entries for the lexicon. If the inspector window shows an empty dictionary then the file lexicon.txt was not found and the installation failed.
+If the inspector window shows an empty dictionary then the file lexicon.txt was not found.
 
 Try tagging a sentence:
 
     NLPtagger pptag: 'The dog ran down the street'
 
-## CategorizationI am using NeoJSON to parse the category word count data.One time initialization:~~~~~~~~ NLPcategories initializeCategoryHashTry it:~~~~~~~~ NLPcategories classify: 'The economy is bad and taxes are too high.'
+## CategorizationI am using NeoJSON to parse the category word count data.One time initialization:    NLPcategories initializeCategoryHashTry it:     NLPcategories classify: 'The economy is bad and taxes are too high.'
