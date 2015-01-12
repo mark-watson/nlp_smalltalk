@@ -34,4 +34,4 @@ Try tagging a sentence:
 
     NLPtagger pptag: 'The dog ran down the street'
 
-## CategorizationI am using NeoJSON to parse the category word count data.One time initialization:    NLPcategories initializeCategoryHashTry it:     NLPcategories classify: 'The economy is bad and taxes are too high.'
+## CategorizationI am using NeoJSON to parse the category word count data.One time initialization:    NLPcategories initializeCategoryHashTry it:     NLPcategories classify: 'The economy is bad and taxes are too high.'## Entity RecognitionFor now just implemented for products, companies, and places. TBD: people's namesOne time initialization:     NLPentities initializeEntitiesExample:    NLPentities entities: 'The Coca Cola factory is in London'

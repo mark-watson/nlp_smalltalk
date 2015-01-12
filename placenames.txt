@@ -1,0 +1,943 @@
+Barbados:country
+Hudson:us_city
+Japan:country
+Vientiane:country_capital
+Pago Pago:country_capital
+Michigan:us_state
+Malaysia:country
+Texas:us_state
+Larami:us_city
+P'yongyang:country_capital
+Samoa:country
+Praia:country_capital
+Buenos Aires:country_capital
+Anguilla:country
+Bethel:us_city
+Botswana:country
+Schenectady:us_city
+Northern Mariana Islands:country
+Kiribati:country
+Bridgetown:country_capital
+Basseterre:country_capital
+Evanston:us_city
+North Little Rock:us_city
+Somalia:country
+Gaza Strip:country
+Tempe:us_city
+Rio Rancho:us_city
+Brooklyn Park:us_city
+Layton:us_city
+Qatar:country
+Bishkek:country_capital
+Baker Island:country
+Stamford:us_city
+Majuro:country_capital
+Kuala Lumpur:country_capital
+Warner Robins:us_city
+Midwest City:us_city
+Florissant:us_city
+Kansas City:us_city
+Fairmont:us_city
+Biloxi:us_city
+Marietta:us_city
+Franklin:us_city
+Flagstaff:us_city
+North Dakota:us_state
+Westminster:us_city
+Delaware:us_state
+Haiti:country
+Providence:us_city
+Bend:us_city
+United States:country
+Burkina Faso:country
+Roanoke:us_city
+West Valley City:us_city
+Havre:us_city
+Rogers:us_city
+Rockford:us_city
+Guam:country
+Kenner:us_city
+Butte:us_city
+Conakry:country_capital
+Hanoi:country_capital
+Wahpeton:us_city
+Quito:country_capital
+Hollywood:us_city
+Bosnia:country
+Herzegovina:country
+Liberia:country
+Washington:us_state
+Saint Joseph:us_city
+Nicaragua:country
+Dover:us_city
+Fort Wayne:us_city
+New Caledonia:country
+Moore:us_city
+Warwick:us_city
+British Indian Ocean Territory:country
+Glorioso Islands:country
+Fort Collins:us_city
+Egypt:country
+New Haven:us_city
+Norfolk:us_city
+Jamaica:country
+Paramaribo:country_capital
+Douglas:country_capital
+Kingston:country_capital
+Valletta:country_capital
+Wichita:us_city
+New Castle:us_city
+Iraq:country
+Gibraltar:country_capital
+Zambia:country
+Iran:country
+Sioux City:us_city
+Ohio:us_state
+Portland:us_city
+Rochester:us_city
+Canberra:country_capital
+Peru:country
+Enid:us_city
+Montgomery:us_city
+West Island:country_capital
+Nairobi:country_capital
+Florida:us_state
+New Zealand:country
+Kodiak:us_city
+Clarksville:us_city
+Gadsden:us_city
+Mesa:us_city
+Charlotte:us_city
+Gary:us_city
+Corvallis:us_city
+British Virgin Islands:country
+Micronesia:country
+Bamako:country_capital
+Washington:us_state
+Portugal:country
+Turkmenistan:country
+Broken Arrow:us_city
+Cambodia:country
+Norman:us_city
+Congo:country
+Albuquerque:us_city
+Philadelphia:us_city
+Spokane:us_city
+Middletown:us_city
+Hilo:us_city
+Senegal:country
+Brunswick:us_city
+Angola:country
+Aurora:us_city
+Damascus:country_capital
+Baton Rouge:us_city
+Rapid City:us_city
+Minneapolis:us_city
+Greenville:us_city
+Adamstown:country_capital
+Suriname:country
+Ecuador:country
+Sofia:country_capital
+Rockville:us_city
+Lawrence:us_city
+Columbia:us_city
+Saint Louis:us_city
+Federal Way:us_city
+French Polynesia:country
+North Charleston:us_city
+Lebanon:country
+Belarus:country
+Lorain:us_city
+Portsmouth:us_city
+Auburn:us_city
+Ukraine:country
+Aruba:country
+Kiev:city
+Erie:us_city
+Suva:country_capital
+Eau Claire:us_city
+Livonia:us_city
+Quincy:us_city
+Vaduz:country_capital
+Frederick:us_city
+Ljubljana:country_capital
+Cyprus:country
+Wisconsin:us_state
+Biddeford:us_city
+Mogadishu:country_capital
+Ann Arbor:us_city
+Provo:us_city
+Abu Dhabi:country_capital
+Fremont:us_city
+Bahrain:country
+Sweden:country
+Dominican Republic:country
+Maldives:country
+Oklahoma City:us_city
+Madrid:country_capital
+Guinea-Bissau:country
+Conway:us_city
+Saint Helier:country_capital
+Copenhagen:country_capital
+Niamey:country_capital
+Indianapolis:us_city
+Port Moresby:country_capital
+Appleton:us_city
+Vatican City:country_capital
+Kingman Reef:country
+Youngstown:us_city
+Grenada:country
+Tuvalu:country
+Albany:us_city
+Iowa City:us_city
+Bangor:us_city
+Sandy:us_city
+Durham:us_city
+Djibouti:country_capital
+United Arab Emirates:country
+Milford:us_city
+Moldova:country
+Italy:country
+Syracuse:us_city
+Gambia:country
+Hattiesburg:us_city
+Buffalo:us_city
+West Fargo:us_city
+New York:us_city
+High Point:us_city
+Kingstown:country_capital
+Saint-Denis:country_capital
+Ulaanbaatar:country_capital
+Jerusalem:city
+Salisbury:us_city
+College Park:us_city
+Scranton:us_city
+Overland Park:us_city
+Bozeman:us_city
+Barrow:us_city
+Vienna:country_capital
+Road Town:country_capital
+Brookings:us_city
+Sierra Leone:country
+Anaheim:us_city
+Los Angeles:us_city
+Hot Springs:us_city
+Nevada:us_state
+Phoenix:us_city
+Martinique:country
+Dhaka:country_capital
+Beijing:country_capital
+Sri Lanka:country
+Memphis:us_city
+Atlanta:us_city
+Grand Forks:us_city
+Montana:us_state
+Wasilla:us_city
+Maryland:us_state
+Pembroke Pines:us_city
+Oman:country
+Pawtucket:us_city
+Armenia:country
+Denver:us_city
+Iceland:country
+Gillette:us_city
+Sanford:us_city
+Belgium:country
+Lancaster:us_city
+Monrovia:country_capital
+Edison Township:us_city
+New Hampshire:us_state
+Banjul:country_capital
+Nashville:us_city
+Doha:country_capital
+Algeria:country
+Marshall Islands:country
+Kalispell:us_city
+Switzerland:country
+Mauritania:country
+Manchester:us_city
+Oranjestad:country_capital
+Charleston:us_city
+Ouagadougou:country_capital
+Bossier City:us_city
+Beaverton:us_city
+Zimbabwe:country
+Carlsbad:us_city
+New Delhi:country_capital
+West Hartford:us_city
+Jordan:country
+Jersey:country
+Louisville:us_city
+Rome:country_capital
+Bucharest:country_capital
+Saint Kitts:country
+Bhutan:country
+San Diego:us_city
+Elizabeth:us_city
+Georgia:country
+Greensboro:us_city
+Antarctica:country
+Jonesboro:us_city
+Honiara:country_capital
+Netherlands:country
+Israel:country
+Dushanbe:country_capital
+Chandler:us_city
+Decatur:us_city
+Taylorsville:us_city
+Cincinnati:us_city
+Colorado:us_state
+Tucson:us_city
+Tupelo:us_city
+Huron:us_city
+Libreville:country_capital
+Manhattan:us_city
+Pakistan:country
+Winston-Salem:us_city
+Thailand:country
+Bandar Seri Begawan:country_capital
+Macedonia:country
+Honduras:country
+Bloomington:us_city
+Newark:us_city
+Europa Island:country
+Reading:us_city
+Lusaka:country_capital
+Hillsboro:us_city
+Cedar Rapids:us_city
+Tuscaloosa:us_city
+San Jose:country_capital
+Phnom Penh:country_capital
+Taiwan:country
+Nicosia:country_capital
+Canada:country
+Grand Rapids:us_city
+Minsk:country_capital
+Lome:country_capital
+Bangladesh:country
+Hong Kong:country
+New Britain:us_city
+Saint John's:country_capital
+Kinshasa:country_capital
+South Dakota:us_state
+Prague:country_capital
+Mali:country
+Bujumbura:country_capital
+Cambridge:us_city
+Little Rock:us_city
+Moscow:country_capital
+Augusta:us_city
+Male:country_capital
+La Paz:city
+South Bend:us_city
+Aberdeen:us_city
+Ashgabat:country_capital
+Kansas:us_state
+Omaha:us_city
+Pittsburgh:us_city
+Comoros:country
+Annapolis:us_city
+Sanaa:country_capital
+Solomon Islands:country
+Kampala:country_capital
+Lexington:us_city
+Westland:us_city
+Nepal:country
+Rock Hill:us_city
+Chicago:us_city
+Orlando:us_city
+Thornton:us_city
+New Jersey:us_state
+Kathmandu:country_capital
+Huntington:us_city
+Macau:country
+Cedar Falls:us_city
+Arvada:us_city
+Luxembourg:country_capital
+Guernsey:country
+Canton:us_city
+Shawnee:us_city
+Springfield:us_city
+Davenport:us_city
+Nassau:country_capital
+Chisinau:country_capital
+Bowling Green:us_city
+Tirana:country_capital
+Louisiana:us_state
+Hoover:us_city
+Panama:country_capital
+Oslo:country_capital
+Mozambique:country
+Sterling Heights:us_city
+Benin:country
+Saint Petersburg:us_city
+Argentina:country
+Lowell:us_city
+N'Djamena:country_capital
+Dublin:country_capital
+Saint Lucia:country
+South Portland:us_city
+Ghana:country
+Woonsocket:us_city
+Sao Tome:country_capital
+El Paso:us_city
+Lansing:us_city
+Mandan:us_city
+Kazakhstan:country
+Las Cruces:us_city
+Eugene:us_city
+West Jordan:us_city
+Tunisia:country
+Hastings:us_city
+Boston:us_city
+Reunion:country
+Anchorage:us_city
+Richmond:us_city
+Ketchikan:us_city
+Johnson City:us_city
+Parkersburg:us_city
+Tampa:us_city
+Las Vegas:us_city
+Mount Pleasant:us_city
+Hungary:country
+Duluth:us_city
+Dickinson:us_city
+Cuba:country
+Santiago:country_capital
+Toledo:us_city
+West Warwick:us_city
+Victoria:country_capital
+Alaska:us_state
+Detroit:us_city
+Thimphu:country_capital
+Smyrna:us_city
+Mexico:country_capital
+Vanuatu:country
+Jakarta:country_capital
+Des Moines:us_city
+Albania:country
+Kyrgyzstan:country
+Mitchell:us_city
+Arkansas:us_state
+Kentucky:us_state
+Castries:country_capital
+Guinea:country
+Korea:country
+Bolivia:country
+Gaborone:country_capital
+Meridian:us_city
+South Africa:country
+Maine:us_state
+Cook Islands:country
+Tennessee:us_state
+Cayenne:country_capital
+Cayman Islands:country
+Paraguay:country
+Independence:us_city
+Mayotte:country
+Alofi:country_capital
+Dearborn:us_city
+Muscat:country_capital
+Saint Peter Port:country_capital
+Henderson:us_city
+Turkey:country
+Germany:country
+Hamilton:country_capital
+Lincoln:us_city
+Islamabad:country_capital
+Burundi:country
+Minot:us_city
+Houston:us_city
+Christmas Island:country
+Yuma:us_city
+Concord:us_city
+Pennsylvania:us_state
+Oakland:us_city
+Connecticut:us_state
+Georgetown:country_capital
+Midway Islands:country
+Austria:country
+Mount Vernon:us_city
+Salt Lake City:us_city
+Cary:us_city
+Port-au-Prince:country_capital
+Finland:country
+Gabon:country
+Clovis:us_city
+Elko:us_city
+Spratly Islands:country
+Farmington:us_city
+Cumberland:us_city
+Hawaii:us_state
+Bogota:country_capital
+Jersey City:us_city
+Basse-Terre:country_capital
+Malta:country
+French Guiana:country
+Falkland Islands:country
+Czech Republic:country
+Croatia:country
+Lesotho:country
+Scottsdale:us_city
+Afghanistan:country
+Western Sahara:country
+Atlantic Ocean:country
+Libya:country
+New Mexico:us_state
+Australia:country
+Palau:country
+Monroe:us_city
+El Salvador:country
+Zagreb:country_capital
+Hartford:us_city
+West Virginia:us_state
+San Francisco:us_city
+Cameroon:country
+Green Bay:us_city
+Vancouver:us_city
+Chad:country
+Pretoria:us_city
+Denmark:country
+Gilbert:us_city
+Avarua:country_capital
+Bassas da India:country
+Lewiston:us_city
+Latvia:country
+Hagerstown:us_city
+Great Falls:us_city
+Upper Darby Twp:us_city
+Mililani:us_city
+Scarborough:us_city
+Laos:country
+Hilton Head Island:us_city
+Juan de Nova Island:country
+Jackson:us_city
+Utah:us_state
+Singapore:country_capital
+Alamogordo:us_city
+Danbury:us_city
+Virginia:us_state
+Indiana:us_state
+Wilmington:us_city
+New Rochelle:us_city
+Eritrea:country
+Frankfort:us_city
+Milwaukee:us_city
+Tehran:country_capital
+Kenai:us_city
+Greenwich:us_city
+Lee's Summit:us_city
+Mesquite:us_city
+Venezuela:country
+St. George:us_city
+London:country_capital
+Lilongwe:country_capital
+Managua:country_capital
+Tallahassee:us_city
+Clipperton Island:country
+Vietnam:country
+Dover Township:us_city
+Knoxville:us_city
+Palikir:country_capital
+Huntsville:us_city
+Dominica:country
+Brockton:us_city
+Khartoum:country_capital
+Alabama:us_state
+Colombia:country
+Equatorial Guinea:country
+Coral Sea Islands:country
+Fargo:us_city
+West Bank:country
+Algiers:country_capital
+Anderson:us_city
+Bridgeport:us_city
+Reno:us_city
+Navassa Island:country
+Morocco:country
+Jacksonville:us_city
+Sacramento:us_city
+Tarawa:country_capital
+Johnston Atoll:country
+Berlin:country_capital
+San Juan:country_capital
+Spartanburg:us_city
+Plymouth:us_city
+Pine Bluff:us_city
+Yemen:country
+Kenya:country
+Norwalk:us_city
+Russia:country
+Miles City:us_city
+Windhoek:country_capital
+Oklahoma:us_state
+Tunis:country_capital
+Skopje:country_capital
+Colorado Springs:us_city
+Papua New Guinea:country
+Sarajevo:country_capital
+Missouri:us_state
+Trenton:us_city
+Bermuda:country
+Congo:country
+Glendale:us_city
+San Marino:country_capital
+Bissau:country_capital
+Antigua:country
+Barbuda:country
+Chesapeake:us_city
+Guadeloupe:country
+Dakar:country_capital
+Athens:country_capital
+Hampton:us_city
+Netherlands Antilles:country
+Tromelin Island:country
+Asuncion:country_capital
+Parma:us_city
+San Salvador:country_capital
+Manama:country_capital
+Brazil:country
+The Valley:country_capital
+Havana:country_capital
+Tanzania:country
+Miami:us_city
+Owensboro:us_city
+Salem:us_city
+Columbus:us_city
+Nuku'alofa:country_capital
+Billings:us_city
+Waterbury:us_city
+Minnesota:us_state
+Hobbs:us_city
+Florence:us_city
+Bouvet Island:country
+Papeete:country_capital
+Roseau:country_capital
+Virginia Beach:us_city
+Saint Charles:us_city
+Luanda:country_capital
+Amsterdam:city
+West Allis:us_city
+Slovenia:country
+Bellevue:us_city
+Oshkosh:us_city
+Anaconda:us_city
+Guatemala:country_capital
+Springdale:us_city
+Boulder:us_city
+Alexandria:us_city
+Carson City:us_city
+Yerevan:country_capital
+Fort Lauderdale:us_city
+Waukesha:us_city
+Philippines:country
+Sioux Falls:us_city
+Clarksburg:us_city
+Seaford:us_city
+New Orleans:us_city
+Nigeria:country
+Arlington:us_city
+Flint:us_city
+Grand Island:us_city
+Fallon:us_city
+Racine:us_city
+Wyoming:us_state
+Vermillion:us_city
+Wheeling:us_city
+none:country_capital
+Montserrat:country
+India:country
+Belize:country
+Kearney:us_city
+Howland Island:country
+Andorra:country
+East Providence:us_city
+Namibia:country
+Saint Pierre:country
+Miquelon:country
+Guyana:country
+Nebraska:us_state
+Wellington:country_capital
+Santa Ana:us_city
+Swaziland:country
+Evansville:us_city
+Tulsa:us_city
+Dubuque:us_city
+Yonkers:us_city
+Gulfport:us_city
+Fresno:us_city
+France:country
+Southern Ocean:country
+Worcester:us_city
+Yakima:us_city
+Edmond:us_city
+Arctic Ocean:country
+Jamestown:country_capital
+Akron:us_city
+Madagascar:country
+Cody:us_city
+Greece:country
+Fort Worth:us_city
+Cape Verde:country
+Central African Republic:country
+Illinois:us_state
+Ethiopia:country
+Lawton:us_city
+Saipan:country_capital
+Yaounde:country_capital
+Bellingham:us_city
+Faroe Islands:country
+Seychelles:country
+Terre Haute:us_city
+Tokyo:country_capital
+Slovakia:country
+Rabat:country_capital
+Trinidad:country
+Tobago:country
+Belgrade:country_capital
+Dallas:us_city
+Montevideo:country_capital
+Norway:country
+Niue:country
+Malabo:country_capital
+Watertown:us_city
+Bismarck:us_city
+San Antonio:us_city
+North Las Vegas:us_city
+Lima:country_capital
+Plymouth:us_city
+Tegucigalpa:country_capital
+Fall River:us_city
+Tallinn:country_capital
+Port-of-Spain:country_capital
+Longyearbyen:country_capital
+Covington:us_city
+Tonga:country
+Gaithersburg:us_city
+Kuwait:country_capital
+Svalbard:country
+Beirut:country_capital
+Maseru:country_capital
+Uruguay:country
+Naperville:us_city
+Kingsport:us_city
+Green River:us_city
+Greenland:country
+Liechtenstein:country
+Vermont:us_state
+Norfolk Island:country
+Saint-Pierre:country_capital
+Lisbon:country_capital
+Bulgaria:country
+Waukegan:us_city
+Paris:country_capital
+California:us_state
+Brazzaville:country_capital
+Coventry:us_city
+Pueblo:us_city
+Fayetteville:us_city
+Antananarivo:country_capital
+Baghdad:country_capital
+Ogden:us_city
+Amman:country_capital
+Budapest:country_capital
+Manila:country_capital
+Lake Charles:us_city
+Waterloo:us_city
+China:country
+Torshavn:country_capital
+Lakewood:us_city
+Chattanooga:us_city
+Murfreesboro:us_city
+Addis Ababa:country_capital
+Topeka:us_city
+Stockholm:country_capital
+Saint Helena:country
+Tacoma:us_city
+Sitka:us_city
+Puerto Rico:country
+Medford:us_city
+Reykjavik:country_capital
+Sumter:us_city
+Jarvis Island:country
+Helsinki:country_capital
+Costa Rica:country
+Birmingham:us_city
+Ottawa:country_capital
+Bethlehem:us_city
+Brasilia:country_capital
+Macon:us_city
+Helena:us_city
+The Settlement:country_capital
+Cheyenne:us_city
+Togo:country
+Taipei:country_capital
+Brunei:country
+Utica:us_city
+Paterson:us_city
+Fort Smith:us_city
+Idaho:us_state
+Brussels:country_capital
+South Carolina:us_state
+Saint George's:country_capital
+T'bilisi:country_capital
+Asheville:us_city
+Burma:country
+Woodbridge Township:us_city
+Stanley:country_capital
+Pitcairn Islands:country
+Paracel Islands:country
+Pacific Ocean:country
+Harare:country_capital
+Weirton:us_city
+Yankton:us_city
+Saudi Arabia:country
+Garland:us_city
+Nauru:country
+Ames:us_city
+Riverton:us_city
+Saint Peters:us_city
+Ankara:country_capital
+Bowie:us_city
+Uzbekistan:country
+Freetown:country_capital
+Plano:us_city
+Mobile:us_city
+Williston:us_city
+Indonesia:country
+Charlotte Amalie:country_capital
+Port Louis:country_capital
+Stillwater:us_city
+Chile:country
+Dayton:us_city
+Missoula:us_city
+United Kingdom:country
+Salina:us_city
+Fort-de-France:country_capital
+Korea:country
+Muncie:us_city
+Santa Fe:us_city
+Cleveland:us_city
+Saint Vincent:country
+Grenadines:country
+Vicksburg:us_city
+Sudan:country
+Sheridan:us_city
+Jeffersontown:us_city
+Peoria:us_city
+Martinsburg:us_city
+Saint Paul:us_city
+Wake Island:country
+Belmopan:country_capital
+Baltimore:us_city
+Uganda:country
+Newport News:us_city
+Riyadh:country_capital
+Bangkok:country_capital
+Tajikistan:country
+Sao Tome:country
+Bern:country_capital
+New Bedford:us_city
+LaFayette:us_city
+Moroni:country_capital
+Syria:country
+Hammond:us_city
+Camden:us_city
+Orem:us_city
+Allentown:us_city
+Accra:country_capital
+Council Bluffs:us_city
+Palmyra Atoll:country
+Lynn:us_city
+Coon Rapids:us_city
+Fiji:country
+Santo Domingo:country_capital
+Bratislava:country_capital
+Nouakchott:country_capital
+Malawi:country
+Londonderry:us_city
+Derry:us_city
+Burnsville:us_city
+Fairbanks:us_city
+Mongolia:country
+Funafuti:country_capital
+Warsaw:country_capital
+North Carolina:us_state
+Azerbaijan:country
+Southaven:us_city
+Caracas:country_capital
+Maputo:country_capital
+North Platte:us_city
+Cote d'Ivoire:country
+Honolulu:us_city
+Kailua:us_city
+Rhode Island:us_state
+Boulder City:us_city
+Ireland:country
+Seoul:country_capital
+Elgin:us_city
+Gresham:us_city
+Arizona:us_state
+George Town:country_capital
+Bahamas:country
+Riga:country_capital
+Massachusetts:us_state
+Corpus Christi:us_city
+Romania:country
+Savannah:us_city
+Oregon:us_state
+Rock Springs:us_city
+Dothan:us_city
+Beckley:us_city
+American Samoa:country
+Tripoli:country_capital
+Madison:us_city
+Iowa:us_state
+North Providence:us_city
+Tokelau:country
+Juneau:us_city
+Austin:us_city
+Seattle:us_city
+Hialeah:us_city
+Kabul:country_capital
+Niger:country
+Noumea:country_capital
+Shreveport:us_city
+Mamoutzou:country_capital
+Everett:us_city
+Olathe:us_city
+Andorra la Vella:country_capital
+Indian Ocean:country
+Bangui:country_capital
+Joliet:us_city
+Cranston:us_city
+Raleigh:us_city
+Morgantown:us_city
+Kent:us_city
+Jan Mayen:country
+Spain:country
+Mauritius:country
+Port-Vila:country_capital
+Hutchinson:us_city
+Mississippi:us_state
+Lithuania:country
+Rwanda:country
+Kigali:country_capital
+Estonia:country
+Merrimack:us_city
+Sparks:us_city
+Virgin Islands:country
+Vilnius:country_capital
+Long Beach:us_city
+Willemstad:country_capital
+Cairo:country_capital
+Poland:country
+Kenosha:us_city
+Apia:country_capital
+Monaco:country_capital
+Casper:us_city
+Roswell:us_city
+Eagan:us_city
+Hopkinsville:us_city
+Yugoslavia:country
+
