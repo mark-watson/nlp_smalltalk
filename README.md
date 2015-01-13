@@ -6,7 +6,7 @@ License: AGPL 3.0 (Note: I own the copyright of all of the code in this project;
 
 ## Setup
 
-Change directory to of your Pharo Smalltalk installation and performa git pull on this project:
+Change directory to of your Pharo Smalltalk installation and perform a git pull on this project:
 
   git clone https://github.com/mark-watson/nlp_smalltalk.git
   
@@ -15,7 +15,7 @@ On a Mac, change directory into the App folder that defines the Pharo applicatio
   cd ~/Pharo3.0.app/Contents/Resources
 
 
-## Running an example
+## Part Of Speech Tagging
 
 Open a File Browser and fileIn the KBSnlp.st source file. Open a Class Browser
 and and look at the code in the KBnlp class.
