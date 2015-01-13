@@ -95,6 +95,7 @@ Procter & Gamble
 Prudential
 QLogic
 QUALCOMM
+Qualcomm
 Quest
 Raytheon
 Red Hat

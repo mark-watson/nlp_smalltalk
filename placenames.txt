@@ -5,6 +5,7 @@ Vientiane:country_capital
 Pago Pago:country_capital
 Michigan:us_state
 Malaysia:country
+Sedona:us_city
 Texas:us_state
 Larami:us_city
 P'yongyang:country_capital

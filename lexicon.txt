@@ -92654,9 +92654,6 @@ zorrillas NNS
 zotl NN
 zotls NNS
 zounds UH
-zq NN
-zu FW
-zur FW
 { (
 } )
 

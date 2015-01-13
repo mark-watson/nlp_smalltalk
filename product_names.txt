@@ -28,3 +28,5 @@ VAIO
 Handycam
 Cyber Shot
 DigiMax
+Ford
+Chevie
