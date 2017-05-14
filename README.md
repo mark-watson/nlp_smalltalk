@@ -25,13 +25,18 @@ Try tagging a sentence to make sure the data was read from disk correctly:
 
     NLPtagger pptag: 'The dog ran down the street'
 
-If this does not work then probably the directory nlp_smalltalk is not in the default directory. he code containing the file path is:
+If this does not work then probably the directory nlp_smalltalk is not in the default directory. The code containing the file path is:
 
     read := (FileStream fileNamed: './nlp_smalltalk/lexicon.txt') readOnly.
 
 ## Categorization
 
-I am using NeoJSON to parse the category word count data so make sure NeoJSON is installed.
+I am using NeoJSON to parse the category word count data so make sure NeoJSON is installed. NeoJSON can be installed using:
+
+    Gofer it
+       smalltalkhubUser: 'SvenVanCaekenberghe' project: 'Neo';
+       configurationOf: 'NeoJSON';
+       loadStable.
 
 One time initialization:
 
