@@ -31,7 +31,7 @@ If this does not work then probably the directory nlp_smalltalk is not in the de
 
 ## Categorization
 
-I am using NeoJSON to parse the category word count data.
+I am using NeoJSON to parse the category word count data so make sure NeoJSON is installed.
 
 One time initialization:
 
