@@ -58,4 +58,13 @@ Example:
 
     NLPentities entities: 'The Coca Cola factory is in London'
     
-            -->  a Dictionary('companies'->a Set('Coca Cola') 'places'->a Set('London') 'products'->a Set('Coca Cola') )    NLPentities humanNameHelper: 'John Alex Smith and Andy Jones went to the store.'        --> a Set('John Alex Smith' 'Andy Jones')
+            -->  a Dictionary('companies'->a Set('Coca Cola') 'places'->a Set('London') 'products'->a Set('Coca Cola') )
+    
+    NLPentities humanNameHelper: 'John Alex Smith and Andy Jones went to the store.'
+    
+                        --> a Set('John Alex Smith' 'Andy Jones')
+
+## Limitations
+
+- Does not currently handle special characters like: —
+- Categorization and summarization should also use "bag of ngrams" in addition to "bag of words" (BOW)
