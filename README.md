@@ -64,6 +64,17 @@ Example:
     
                         --> a Set('John Alex Smith' 'Andy Jones')
 
+## Sentence Segmentation
+
+One time initialization:
+
+    NLPsentences loadData
+
+    NLPsentences sentences: 'Today Mr. Jones went to town. He bought gas.'
+    
+      --> an OrderedCollection(an OrderedCollection('Today' 'Mr.' 'Jones' 'went' 'to' 'town' '.') an OrderedCollection('He' 'bought' 'gas' '.'))
+      
+
 ## Limitations
 
 - Does not currently handle special characters like: —
