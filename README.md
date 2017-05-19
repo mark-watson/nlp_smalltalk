@@ -2,7 +2,9 @@
 
 Copyright 2005 to 2017 by Mark Watson
 
-License: Apache 2
+License: MIT
+
+Note: the most frequent updates to this Pharo Smalltalk package will appear on the [github repo for this project](https://github.com/mark-watson/nlp_smalltalk). I will also try to keep the source on [SqueakSource.com](http://www.squeaksource.com) up to date.
 
 ## Setup
 
