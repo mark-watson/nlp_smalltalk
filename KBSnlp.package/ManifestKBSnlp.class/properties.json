@@ -1,0 +1,14 @@
+{
+	"category" : "KBSnlp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MarkWatson 5/19/2017 06:24",
+	"instvars" : [
+		 ],
+	"name" : "ManifestKBSnlp",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "KBSnlp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MarkWatson 5/19/2017 06:26",
+	"instvars" : [
+		 ],
+	"name" : "NLPsummarizer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

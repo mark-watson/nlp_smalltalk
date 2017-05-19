@@ -1,0 +1,14 @@
+{
+	"category" : "KBSnlp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MarkWatson 5/19/2017 06:25",
+	"instvars" : [
+		 ],
+	"name" : "NLPentities",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

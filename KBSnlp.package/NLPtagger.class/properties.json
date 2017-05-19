@@ -1,0 +1,14 @@
+{
+	"category" : "KBSnlp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NLPlexicon" ],
+	"commentStamp" : "MarkWatson 5/19/2017 06:27",
+	"instvars" : [
+		 ],
+	"name" : "NLPtagger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
