@@ -76,7 +76,14 @@ One time initialization:
     
       --> an OrderedCollection(an OrderedCollection('Today' 'Mr.' 'Jones' 'went' 'to' 'town' '.') an OrderedCollection('He' 'bought' 'gas' '.'))
       
+## Summarization
 
+No additional data needs to be loaded for summarization, but all other data should be loaded as-per the above directions. Here is a short example:
+
+    NLPsummarizer summarize: 'The administration and House Republicans have asked a federal appeals court for a 90-day extension in a case that involves federal payments to reduce deductibles and copayments for people with modest incomes who buy their own policies. The fate of $7 billion in "cost-sharing subsidies" remains under a cloud as insurers finalize their premium requests for next year. Experts say premiums could jump about 20 percent without the funding. In requesting the extension, lawyers for the Trump administration and the House said the parties are continuing to work on measures, including potential legislative action, to resolve the issue. Requests for extensions are usually granted routinely.'
+    
+    --> #('The administration and House Republicans have asked a federal appeals court for a 90-day extension in a case that involves federal payments to reduce deductibles and copayments for people with modest incomes who buy their own policies .' 'The fate of $ 7 billion in "cost-sharing subsidies" remains under a cloud as insurers finalize their premium requests for next year .' 'In requesting the extension , lawyers for the Trump administration and the House said the parties are continuing to work on measures , including potential legislative action , to resolve the issue .')
+    
 ## Limitations
 
 - Does not currently handle special characters like: —
