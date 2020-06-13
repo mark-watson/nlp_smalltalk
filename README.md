@@ -6,6 +6,10 @@ License: MIT
 
 Note: the most frequent updates to this Pharo Smalltalk package will appear on the [github repo for this project](https://github.com/mark-watson/nlp_smalltalk). I will also try to keep the source on [SqueakSource.com](http://www.squeaksource.com) up to date.
 
+## Donate on Patreon to support all of my projects
+
+Please visit [https://www.patreon.com/markwatson](https://www.patreon.com/markwatson) and sign up to donate $1/month
+
 ## Setup
 
 Change directory to of your Pharo Smalltalk installation and perform a git pull on this project:
