@@ -22,7 +22,6 @@ NLPtagger class >> initializeLexicon [
 
 	| read count strm aDir aLine word taglist token lex |
 	lex := Dictionary new.
-	"read := (FileSystem fileNamed: '/Users/markw_1/bin/pharo/nlp_smalltalk/lexicon.txt') readOnly."
 	aDir := FileSystem disk workingDirectory.
 	read := (aDir / './pharo-local/iceberg/mark-watson/nlp_smalltalk/lexicon.txt') readStream.
 	count := 0.
