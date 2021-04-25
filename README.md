@@ -1,24 +1,21 @@
 # Natural Language Processing Library for Pharo Smalltalk
 
-Copyright 2005 to 2017 by Mark Watson
+Copyright 2005 to 2021 by Mark Watson
 
 License: MIT
 
-Note: the most frequent updates to this Pharo Smalltalk package will appear on the [github repo for this project](https://github.com/mark-watson/nlp_smalltalk). I will also try to keep the source on [SqueakSource.com](http://www.squeaksource.com) up to date.
+Note: the most frequent updates to this Pharo Smalltalk package will appear on the [github repo for this project](https://github.com/mark-watson/nlp_smalltalk). 
 
-## Donate on Patreon to support all of my projects
+Note 2: on 4/25/2021 I converted this project to use the IceBerg github support for Pharo Smalltalk. All source code and data have been moved to the subdirectory **src**. 
 
-Please visit [https://www.patreon.com/markwatson](https://www.patreon.com/markwatson) and sign up to donate $1/month
+IceBerg/github documentation: [https://books.pharo.org/booklet-ManageCode/pdf/2019-03-24-ManageCode.pdf](https://books.pharo.org/booklet-ManageCode/pdf/2019-03-24-ManageCode.pdf)
 
-## Setup
+Add this repository using the IcewBerg Browser.
 
-Change directory to of your Pharo Smalltalk installation and perform a git pull on this project:
+## Setup to be done one time after loading the code via IceBerg
 
-  git clone https://github.com/mark-watson/nlp_smalltalk.git
-  
-On a Mac and Linux this should be the directory that contains the image, runtime app, and change list file.
 
-## Part Of Speech Tagging
+### Part Of Speech Tagging
 
 Open a File Browser and fileIn the KBSnlp.st source file. Open a Class Browser
 and and look at the code in the KBnlp class.
@@ -35,7 +32,7 @@ If this does not work then probably the directory nlp_smalltalk is not in the de
 
     read := (FileStream fileNamed: './nlp_smalltalk/lexicon.txt') readOnly.
 
-## Categorization
+### Categorization
 
 I am using NeoJSON to parse the category word count data so make sure NeoJSON is installed. NeoJSON can be installed using:
 
@@ -52,7 +49,7 @@ Try it:
 
      NLPcategories classify: 'The economy is bad and taxes are too high.'
      
-## Entity Recognition
+### Entity Recognition
 
 Implemented for products, companies, places, and people's names.
 
@@ -70,7 +67,7 @@ Example:
     
                         --> a Set('John Alex Smith' 'Andy Jones')
 
-## Sentence Segmentation
+### Sentence Segmentation
 
 One time initialization:
 
@@ -80,7 +77,7 @@ One time initialization:
     
       --> an OrderedCollection(an OrderedCollection('Today' 'Mr.' 'Jones' 'went' 'to' 'town' '.') an OrderedCollection('He' 'bought' 'gas' '.'))
       
-## Summarization
+### Summarization
 
 No additional data needs to be loaded for summarization, but all other data should be loaded as-per the above directions. Here is a short example:
 
