@@ -23,7 +23,7 @@ NLPsentences class >> fileToSet: filePath [
 	set := Set new.
 	"read := (MultiByteFileStream fileNamed: filePath) readOnly."
 	aDir := FileSystem disk workingDirectory.
-	read := (aDir / './nlp_smalltalk/lexicon.txt') readStream.
+	read := (aDir / './pharo-local/iceberg/mark-watson/nlp_smalltalk/lexicon.txt') readStream.
 	
 	[ read atEnd ]
 		whileFalse: [ aLine := read upTo: Character lf.	"Mac: use lf, Windows: use cr ???"
@@ -40,7 +40,7 @@ NLPsentences class >> loadData [
 	count := 0.
 	reverseDictionary := Dictionary new.
 	forwardDictionary := Dictionary new.
-	aSet := NLPsentences fileToSet: './nlp_smalltalk/tokensWithPeriods.txt'.
+	aSet := NLPsentences fileToSet: './pharo-local/iceberg/mark-watson/nlp_smalltalk/tokensWithPeriods.txt'.
 	Smalltalk at: #NLPtokensWithPeriods put: aSet.
 	^ 'tokens with periods data loaded'
 ]

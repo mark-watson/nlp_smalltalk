@@ -24,7 +24,7 @@ NLPtagger class >> initializeLexicon [
 	lex := Dictionary new.
 	"read := (FileSystem fileNamed: '/Users/markw_1/bin/pharo/nlp_smalltalk/lexicon.txt') readOnly."
 	aDir := FileSystem disk workingDirectory.
-	read := (aDir / './nlp_smalltalk/lexicon.txt') readStream.
+	read := (aDir / './pharo-local/iceberg/mark-watson/nlp_smalltalk/lexicon.txt') readStream.
 	count := 0.
 	[ read atEnd ]
 		whileFalse: [ count := count + 1.

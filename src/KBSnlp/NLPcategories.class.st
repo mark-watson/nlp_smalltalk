@@ -46,7 +46,7 @@ NLPcategories class >> initializeCategoryHash [
 	| aDir |
 	aDir := FileSystem disk workingDirectory.
    Smalltalk at: #NlpCategoryHash
-                 put: (NeoJSONReader fromString: ((aDir / './nlp_smalltalk/tags.json') readStream) contents).
+                 put: (NeoJSONReader fromString: ((aDir / './pharo-local/iceberg/mark-watson/nlp_smalltalk/tags.json') readStream) contents).
    Smalltalk at: #NlpCategory2gramHash
-                 put: (NeoJSONReader fromString: ((aDir / './nlp_smalltalk/tags_2gram.json') readStream) contents)
+                 put: (NeoJSONReader fromString: ((aDir / './pharo-local/iceberg/mark-watson/nlp_smalltalk/tags_2gram.json') readStream) contents)
 ]
