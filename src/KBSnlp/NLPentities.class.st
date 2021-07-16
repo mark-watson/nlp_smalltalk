@@ -114,31 +114,34 @@ NLPentities class >> initializeEntities [
 	"load entity name data"
 
 	" Note: place name lines of the form: Cairo:country_capital   Fixed in fileToDictionary "
+   | repo path |
+	repo := IceRepository registeredRepositoryIncludingPackage: (self class) package. 
+   path := (repo location) asString .
 
 	Smalltalk
 		at: #NLPcompanyNames
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/company_names.txt').
+		put: (NLPentities fileToDictionary: path , '/company_names.txt').
 	Smalltalk
 		at: #NLPfirstNames
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/firstnames.txt').
+		put: (NLPentities fileToDictionary: path , './firstnames.txt').
 	Smalltalk
 		at: #NLPlastNames
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/lastnames.txt').
+		put: (NLPentities fileToDictionary: path , './lastnames.txt').
 	Smalltalk
 		at: #NLPhonorifics
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/honorifics.txt').
+		put: (NLPentities fileToDictionary: path , '/honorifics.txt').
 	Smalltalk
 		at: #NLPprefixNames
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/prefixnames.txt').
+		put: (NLPentities fileToDictionary: '/prefixnames.txt').
 	Smalltalk
 		at: #NLPplaceNames
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/placenames.txt').
+		put: (NLPentities fileToDictionary: '/placenames.txt').
 	Smalltalk
 		at: #NLPproductNames
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/product_names.txt').
+		put: (NLPentities fileToDictionary: path , '/product_names.txt').
 		
 	" also read in data we will need for sentence segmentation: "
 	Smalltalk
 		at: #NLPtokensWithPeriods
-		put: (NLPentities fileToDictionary: './pharo-local/iceberg/mark-watson/nlp_smalltalk/tokensWithPeriods.txt').
+		put: (NLPentities fileToDictionary: path , '/tokensWithPeriods.txt').
 ]

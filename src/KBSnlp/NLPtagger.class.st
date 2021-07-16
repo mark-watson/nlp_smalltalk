@@ -20,10 +20,10 @@ Class {
 NLPtagger class >> initializeLexicon [
 	"Read data/lexicon.txt and build in memory lexicon"
 
-	| read count strm aDir aLine word taglist token lex |
+	| read count strm aLine word taglist token lex repo |
 	lex := Dictionary new.
-	aDir := FileSystem disk workingDirectory.
-	read := (aDir / './pharo-local/iceberg/mark-watson/nlp_smalltalk/lexicon.txt') readStream.
+	repo := IceRepository registeredRepositoryIncludingPackage: (self class) package. 
+   read := ((repo location) asString , '/lexicon.txt') readStream .
 	count := 0.
 	[ read atEnd ]
 		whileFalse: [ count := count + 1.
